@@ -18,3 +18,20 @@ The dataset comprises 1500 potato leaf images (500 per class: Early Blight, Late
 1. Clone this repository:
    ```bash
    git clone https://github.com/NikhilTeja5/Potato-Disease-Classification-Hackathon.git
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Download the dataset from the link above and place it in the appropriate directory.
+
+4. Run the script:
+python model.py
+
+
+##Report
+The project report (report.pdf) includes:
+   > Introduction and dataset description
+   > Model code and architecture
+   > Evaluation metrics (accuracy, precision, recall, confusion matrix)
+   > Optimization techniques and conclusion
+
