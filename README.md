@@ -30,8 +30,8 @@ python model.py
 
 ## Report
 The project report (report.pdf) includes:
-   Introduction and dataset description
-   Model code and architecture
-   Evaluation metrics (accuracy, precision, recall, confusion matrix)
-   Optimization techniques and conclusion
+   - Introduction and dataset description
+    - Model code and architecture
+   - Evaluation metrics (accuracy, precision, recall, confusion matrix)
+   - Optimization techniques and conclusion
 
